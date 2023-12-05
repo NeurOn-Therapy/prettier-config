@@ -1,0 +1,10 @@
+{
+    "name": "@neurontherapy/prettier-config",
+    "version": "1.0.0",
+    "description": "Prettier config for NeurOn Therapeutics",
+    "main": "index.json",
+    "repository": "git@github.com:NeurOn-Therapy/prettier-config.git",
+    "author": "Antek Olesik <antek.olesik@gmail.com>",
+    "homepage": "https://github.com/NeurOn-Therapy/prettier-config#readme",
+    "license": "MIT"
+}
