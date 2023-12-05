@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ bun add -d @neurontherapy/prettier-config
+$ bun add -d github:NeurOn-Therapy/prettier-config
 ```
 
 **Edit `package.json`**:
